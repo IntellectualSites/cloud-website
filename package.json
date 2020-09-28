@@ -1,7 +1,7 @@
 {
-  "name": "hyperverse",
+  "name": "cloud",
   "version": "1.0.0",
-  "description": "a minecraft world management plugin's splash page",
+  "description": "command library of (yo)ur dream's splash page",
   "author": "simpleauthority",
   "private": true,
   "scripts": {

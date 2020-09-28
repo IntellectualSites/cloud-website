@@ -11,6 +11,6 @@
   background: url('~assets/bg.svg');
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: top center;
+  background-position: center center;
 }
 </style>

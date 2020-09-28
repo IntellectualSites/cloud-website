@@ -1,13 +1,13 @@
 <template>
   <b-container>
     <main>
-      <h1>Hyperverse</h1>
-      <h3>A MINECRAFT WORLD MANAGEMENT PLUGIN</h3>
+      <h1>Cloud</h1>
+      <h3>Command Library of (yo)Ur Dreams</h3>
     </main>
     <section>
       <b-row>
         <b-col>
-          <a href="https://github.com/Sauilitired/Hyperverse" target="_blank">
+          <a href="https://github.com/Sauilitired/Cloud" target="_blank">
             <fa :icon="github" />
           </a>
         </b-col>
@@ -17,10 +17,7 @@
           </a>
         </b-col>
         <b-col>
-          <a
-            href="https://www.spigotmc.org/resources/hyperverse-w-i-p.77550"
-            target="_blank"
-          >
+          <a href="#" target="_blank">
             <fa :icon="download" />
           </a>
         </b-col>
@@ -55,12 +52,12 @@ section {
 }
 
 main {
-  color: #b0a7c7;
+  color: #e6d85a;
 
   h1,
   h3 {
     opacity: 0.85;
-    text-shadow: 1px 3px #524c63;
+    text-shadow: 1px 3px #a37f14;
   }
 
   h1 {
@@ -122,12 +119,12 @@ main {
 
 section {
   a {
-    color: #9284b3;
+    color: #c4b35c;
 
     &:hover,
     &:active,
     &:focus {
-      color: #62577d;
+      color: #c29c2d;
       text-decoration: none;
     }
   }
